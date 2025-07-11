@@ -1,0 +1,11 @@
+pandas>=2.1
+numpy>=1.26
+nltk
+textblob
+matplotlib
+seaborn
+nltk
+streamlit
+ipykernel
+tensorflow
+scikit-learn

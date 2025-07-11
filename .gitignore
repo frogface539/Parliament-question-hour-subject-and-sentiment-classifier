@@ -1,0 +1,55 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model files (can be regenerated or too large)
+model/*.h5
+model/*.pkl
+
+# Data files (optional, if large or sensitive)
+*.csv
+*.tsv
+
+# Log files
+*.log
+
+# TensorBoard logs
+logs/
+events.out.tfevents.*
+
+# Gensim word vectors (optional, huge files)
+*.bin
+*.npy
+*.vec
+*.gz
+
+# Temp files
+*.tmp
+*.swp
+*.bak
+
+# OS specific
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+*.iml
